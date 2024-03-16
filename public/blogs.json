@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://iili.io/JXJrVKx.jpg",
+      "title": "Lorem Ipsum",
+      "author": "John Doe",
+      "author_img": "https://iili.io/JXJP1oX.png",
+      "posted_date": "2024-03-16",
+      "reading_time": 10,
+      "hashtags": ["fiction", "Lorem", "ipsum"]
+    },
+    {
+      "id": "2",
+      "cover": "https://iili.io/JXJ4CUQ.png",
+      "title": "Dolor Sit Amet",
+      "author": "Jane Smith",
+      "author_img": "https://iili.io/JXJPQx1.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time": 8,
+      "hashtags": ["science fiction", "Dolor", "Amet"]
+    },
+    {
+      "id": "3",
+      "cover": "https://iili.io/JXJ4UXe.png",
+      "title": "Consectetur Adipiscing",
+      "author": "Alex Johnson",
+      "author_img": "https://iili.io/JXJihqg.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": 12,
+      "hashtags": ["thriller", "Consectetur", "Adipiscing"]
+    },
+    {
+      "id": "4",
+      "cover": "https://iili.io/JXJ65T7.jpg",
+      "title": "Sed Do Eiusmod",
+      "author": "Emily Brown",
+      "author_img": "https://iili.io/JXJsuvR.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 15,
+      "hashtags": ["romance", "Sed", "Eiusmod"]
+    },
+    {
+      "id": "5",
+      "cover": "https://iili.io/JXJgBLb.jpg",
+      "title": "Ut Enim Ad Minim",
+      "author": "Michael Williams",
+      "author_img": "https://iili.io/JXddjJS.png",
+      "posted_date": "2024-03-12",
+      "reading_time": 7,
+      "hashtags": ["adventure", "Ut", "Minim"]
+    }
+  ]
+  
